@@ -1052,10 +1052,7 @@ furnished to do so, subject to the following conditions:
 
 ### Get in Touch
 
-[![Website](https://img.shields.io/badge/Website-ArtisanConnect-blue?style=for-the-badge)](https://artisanconnect.com)
-[![Email](https://img.shields.io/badge/Email-support%40artisanconnect.com-red?style=for-the-badge)](mailto:support@artisanconnect.com)
-[![Twitter](https://img.shields.io/badge/Twitter-@ArtisanConnect-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/artisanconnect)
-[![Discord](https://img.shields.io/badge/Discord-Join_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/artisanconnect)
+[![Email](https://img.shields.io/badge/Email-lamaiziisaad%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lamaiziisaad@gmail.com)
 
 ### 📚 Additional Resources
 
